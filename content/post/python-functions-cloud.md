@@ -73,3 +73,7 @@ Indeed, `npm` is the node package manager.
 * [Package and deploy](https://github.com/awslabs/aws-sam-local#package-and-deploy-to-lambda)
 
 Myself, I made my first deployment based off of [something simple](https://github.com/awslabs/aws-sam-local/tree/develop/samples/hello-world/python). Although the repository of the spec contains far [more examples](https://github.com/awslabs/serverless-application-model/tree/master/examples). An interesting sample is the one about [Python with external dependencies](https://github.com/awslabs/aws-sam-local/tree/7b496590bcd4b326e39b07eb33667015ec9094e2/samples/python-with-packages).
+
+#### Deploying Python functions with external dependencies
+
+Packaging NLTK
